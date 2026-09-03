@@ -54,6 +54,10 @@ Desenvolvo aplicações web, APIs e soluções voltadas para automação, proces
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 
+---
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=fernandodinizs&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 <div>
 
 
