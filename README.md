@@ -4,18 +4,22 @@
 
 Desenvolvo aplicações web, APIs e soluções voltadas para automação, processamento de dados e arquitetura de sistemas.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-fernandodinizs-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/fernandodinizs/)
+<div align="center">
 
----
+[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernandodinizs/)
+
+</div>
+
 
 ## Sobre mim
 
 * 💼 Trabalhando no **TJRR**
 * 🦀 Estudando **Rust**
 
----
 
 ## Tecnologias
+
+<div align="center">
 
 ### 🌐 Web
 
@@ -49,6 +53,8 @@ Desenvolvo aplicações web, APIs e soluções voltadas para automação, proces
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+
+<div>
 
 
 <img src=".\fernandodinizs-space-shooter.gif" alt="GitHub Space Shooter">
