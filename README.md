@@ -58,7 +58,9 @@ Desenvolvo aplicações web, APIs e soluções voltadas para automação, proces
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=fernandodinizs&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<div>
+</div>
 
 
-<img src=".\fernandodinizs-space-shooter.gif" alt="GitHub Space Shooter">
+## 👾 Contribuições
+
+![My GitHub Game](fernandodinizs-space-shooter.gif)
